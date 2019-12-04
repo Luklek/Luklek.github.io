@@ -1,2 +1,6 @@
 google.com, pub-7547653005273589, DIRECT, f088c47fec942fa0
 mopub.com, 965668c5de254073aa00f3223bbc86fe, DIRECT, 74b46c0ea83967ca
+applovin.com, 8d430a52837016bacf88276267e4058e, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
