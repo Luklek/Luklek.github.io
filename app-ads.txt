@@ -1,23 +1,16 @@
 google.com, pub-7547653005273589, DIRECT, f088c47fec942fa0
 google.com, pub-9359434391374377, DIRECT, f08c47fec0942fa0
-mopub.com, 965668c5de254073aa00f3223bbc86fe, DIRECT, 74b46c0ea83967ca
-rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
+pangleglobal.com, 44333, DIRECT
+facebook.com, 2120433414904273, RESELLER, c3e20eee3f780d68
+facebook.com, 2368957769842259, RESELLER, c3e20eee3f780d68
 applovin.com, 8d430a52837016bacf88276267e4058e, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
-indexexchange.com, 191086, RESELLER
-pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
-Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
-indexexchange.com, 191086, RESELLER
-a4g.com, 2775364, DIRECT
-onetag.com, 5adb88524e24e50, DIRECT
-google.com, pub-1232265399417302, RESELLER
-appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
-advertising.com, 28246, RESELLER
-facebook.com, 2120433414904273, RESELLER, c3e20eee3f780d68
-facebook.com, 2368957769842259, RESELLER, c3e20eee3f780d68
+verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 tapjoy.com, 9ed59e9b8e194442b43d1510a8df7cbf, DIRECT, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 webeyemob.com, 70096, RESELLER
@@ -32,4 +25,15 @@ rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 pubmatic.com, 160565, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160565, DIRECT, 5d62403b186f2ace
 pangleglobal.com, 9898, DIRECT
-pangleglobal.com, 44333, DIRECT
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+triplelift.com, 10522, RESELLER, 6c33edb13117fd86
+smartadserver.com, 4052, RESELLER
+synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
+aol.com, 58935, RESELLER, e1a5b5b6e3255540
+yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
+opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
+a4g.com, 2775364, DIRECT
+onetag.com, 5adb88524e24e50, DIRECT
+google.com, pub-1232265399417302, RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+advertising.com, 28246, RESELLER
